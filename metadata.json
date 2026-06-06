@@ -1,0 +1,6 @@
+{
+  "name": "Paper Lens",
+  "description": "Premium OCR scanner for extracting text from images and PDFs using fully local, on-device text recognition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
