@@ -73,10 +73,10 @@ jobs:
       - name: Upload Release APK
         uses: actions/upload-artifact@v4
         with:
-          name: BGWrap_release.apk
+          name: Paperlens_release.apk
           path: app/build/outputs/apk/release/*.apk
       - name: Upload Release AAB
         uses: actions/upload-artifact@v4
         with:
-          name: BGWrap_release.aab
+          name: Paperlens_release.aab
           path: app/build/outputs/bundle/release/*.aab
